@@ -1,4 +1,4 @@
-all:
-	g++ main.cpp -o run
+all:  
+	g++ main.cpp add.cpp -o run
 	./run
 
